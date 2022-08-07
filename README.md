@@ -1,4 +1,4 @@
-# Snake
+# Breakout
 
 A simple breakout game, built with Typescript and Canvas
 
